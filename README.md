@@ -9,4 +9,4 @@ You can add install and use npm packages, you can use the Packager tool to searc
 [Read the Docs to Learn More](https://vitejs.dev) and configure your frontend application.
 
 
-![image](./try.gif)
+![image](./try2.gif)
